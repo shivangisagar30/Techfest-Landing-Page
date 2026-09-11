@@ -2,6 +2,10 @@
 
 A modern single-page landing page for a Techfest event, styled with a futuristic cyber-inspired aesthetic and interactive scroll/reveal animations.
 
+## Live Link
+
+https://shivangisagar30.github.io/Techfest-Landing-Page/
+
 ## Overview
 
 This project is built using plain HTML, CSS, and JavaScript with no framework or build step required. It includes:
